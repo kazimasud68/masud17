@@ -1,0 +1,290 @@
+*{margin:0; padding:0;}
+body{
+	font-size: 15px;
+	font-family: Arial;
+	line-height: 14px;
+	background-color:  #D3D1CE;
+}
+.wrapper{
+	margin: 50px auto;
+overflow: hidden;
+}      /*-- end wrapper --*/
+header{
+	width: 100%;
+	height:230px;
+	background:url(images/header2.jpg);
+   background-repeat: no-repeat;
+}
+header img{
+	float: left;
+	margin-left:46%;
+	margin-bottom: 30px;
+}
+header a{
+	margin-left: 46%;
+	color:#5D737E;
+	font-size: 28px;
+	font-weight: 500;
+	text-decoration: none;
+}
+header input{
+	text-align: justify;
+	position:absolute;
+	left: 63%;
+	top: 5%;
+	background:url(images/input1.jpg);
+	background-repeat: no-repeat;
+	width: 310px;
+	height: 35.5px;
+	border-color:#070908;
+}
+/*--end header --*/
+
+.one{
+	margin-left: 180px;
+	font-size: 12px;
+}
+
+.one label{
+	color: #3E3D32;
+}
+.one a{
+	color:#00A2DC;
+	text-decoration: none;
+}
+.one a:hover{
+	text-decoration: underline;
+}
+/*-- end div one --*/
+
+hr{
+	margin-top: 18px;
+	margin-left: 165px;
+	margin-bottom:25px; 
+     margin-right: 145px;
+}
+.two{
+	margin-left: 310px;
+	margin-bottom: 20px;
+	word-spacing: 2px;
+	letter-spacing: .75px;
+}
+.two select{
+	color:#575757;
+	margin-left: 20px;
+	width: 340px;
+	height: 32px;
+	border-radius: 5px;
+}
+/*-- end div two --*/
+
+.three{
+	margin-left: 380px;
+	margin-bottom: 20px;
+}
+.three p{
+	word-spacing: 2px;
+	letter-spacing: .75px;
+	margin-right: 18px;
+}
+.three select{
+padding: 7px 13px;
+border-radius: 5px;
+margin-right: 6px;
+color:#575757;
+}
+.three h4{
+	color: #272822;
+}
+
+.three a{
+	color:#00A2DC;
+	text-decoration: none;
+	font-weight: 500;
+}
+.three a:hover{
+	text-decoration: underline;
+}
+
+/*-- end div three --*/
+.four{
+	margin-left: 432px;
+	margin-bottom: 20px;
+}
+.four p{
+	letter-spacing: .75px;
+	margin-right: 18px;
+}
+.four input{
+	width: 340px;
+	height: 32px;
+	border-radius: 5px;
+	margin-right: 5px;
+	border: 1px solid#AAAAAB;
+}
+
+/*-- end div four--*/
+
+.five{
+	margin-left: 362px;
+	margin-bottom: 20px;
+}
+.five p{
+	letter-spacing: .75px;
+	margin-right: 18px;
+}
+.five input{
+	width: 340px;
+	height: 32px;
+	border-radius: 5px;
+	margin-right: 5px;
+	border: 1px solid#AAAAAB;
+}
+/*-- end div class five --*/
+
+.six{
+	margin-left: 401px;
+	margin-bottom: 20px;
+}
+.six p{
+	letter-spacing: .75px;
+	margin-right: 18px;
+}
+.six input{
+	width: 340px;
+	height: 32px;
+	border-radius: 5px;
+	margin-right: 5px;
+	border: 1px solid#AAAAAB;
+}
+/*-- end div class six --*/
+
+.seven{
+	margin-left: 270px;
+	margin-bottom: 25px;
+}
+.seven p{
+	word-spacing: 1px;
+	letter-spacing: .75px;
+	margin-right: 18px;
+}
+.seven input{
+	width: 340px;
+	height: 32px;
+	border-radius: 5px;
+	margin-right: 5px;
+	border: 1px solid#AAAAAB;
+}
+/*-- end div class seven --*/
+
+.eight{
+	margin-left:505px;
+	line-height: 25px;
+	font-weight: 600;
+	color: #464646;
+    margin-bottom: 30px;
+}
+.eight input{
+	width:20px;
+	height:20px;
+	margin-right: 10px;
+}
+.eight a{
+	color:#00A2DC;
+	text-decoration: none;
+}
+.eight a:hover{
+	text-decoration: underline;
+}
+
+/*-- end div eight --*/
+
+.nine{
+	margin-left:505px;
+	line-height: 25px;
+	font-weight: 500;
+	color: #3E3D32;
+    font-size: 13px;
+     }
+.nine input{
+	width:20px;
+	height:20px;
+	margin-right: 10px;
+}
+.nine button{
+	margin-top: 25px;
+	padding: 7px 19px;
+	border-radius: 4px;
+	margin-left: 5px;
+	background-color: #0054A5;
+	border:1px solid #0054A5;
+	margin-right: 20px;
+	margin-bottom: 25px;
+}
+
+.nine a{
+	color:#00A2DC;
+	text-decoration: none;
+}
+.nine button a{
+	color:white;
+	font-size: 12px;
+}
+.nine button a:hover{
+	color: #00A2DC;
+}
+.nine p{
+	height: 30px;
+	width: 2px;
+	background-color: #AAAAAB;
+	position: absolute;
+	right: 630px;
+	top: 835px;
+	margin-right: 5px;
+}
+
+/*-- end div nine --*/
+footer{
+	width: 100%;
+	height: auto;
+	background:url(images/footer.jpg);
+   background-repeat: no-repeat; 
+}
+.ten{
+	margin-left: 185px;
+	font-size: 13px;
+}
+.ten td{
+	padding-right: 90px;
+}
+.ten a{
+	color:#AAAAAB;
+	text-decoration: none;
+}
+.ten a:hover{
+	color:#00A2DC;
+	text-decoration: underline;
+}
+.ten img{
+	padding-top:20px;
+	padding-right: 10px;
+}
+
+/*-- end div ten --*/
+
+.eleven{
+	margin-left: 185px;
+	font-size: 13px;
+	margin-bottom: 10px;
+}
+.eleven td{
+	padding-right: 90px;
+}
+.eleven a{
+	color:#585858;
+	text-decoration: none;
+}
+.eleven a:hover{
+	color:#C1CFDD;
+	text-decoration: underline;
+}
